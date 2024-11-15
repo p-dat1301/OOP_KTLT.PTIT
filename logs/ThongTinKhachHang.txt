@@ -1,0 +1,25 @@
+Ho Ten: A
+So Dien Thoai: 01
+So Don Hang: 28
+Khach Hang Than Thiet: KHONG
+---------------------------------------------
+Ho Ten: B
+So Dien Thoai: 02
+So Don Hang: 9
+Khach Hang Than Thiet: KHONG
+---------------------------------------------
+Ho Ten: C
+So Dien Thoai: 03
+So Don Hang: 0
+Khach Hang Than Thiet: KHONG
+---------------------------------------------
+Ho Ten: D
+So Dien Thoai: 04
+So Don Hang: 0
+Khach Hang Than Thiet: KHONG
+---------------------------------------------
+Ho Ten: TAO LA FAN MU
+So Dien Thoai: 1999
+So Don Hang: 17
+Khach Hang Than Thiet: KHONG
+---------------------------------------------

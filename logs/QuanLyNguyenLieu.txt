@@ -1,0 +1,24 @@
+Ma Nguyen Lieu: CF001
+Ten Nguyen Lieu: CAFE SUA
+So Luong Them: 24
+Muc Canh Bao: 4
+Ngay Nhap Cuoi: 09/11/20244
+----------------------------------------------
+Ma Nguyen Lieu: CF002
+Ten Nguyen Lieu: CAFE DEN
+So Luong Them: 0
+Muc Canh Bao: 5
+Ngay Nhap Cuoi: 11/11/2024
+----------------------------------------------
+Ma Nguyen Lieu: CF003
+Ten Nguyen Lieu: BAC XIU
+So Luong Them: 0
+Muc Canh Bao: 5
+Ngay Nhap Cuoi: 11/11/2024
+----------------------------------------------
+Ma Nguyen Lieu: N01
+Ten Nguyen Lieu: NUOC LOC
+So Luong Them: 0
+Muc Canh Bao: 5
+Ngay Nhap Cuoi: 13/11/2024
+----------------------------------------------

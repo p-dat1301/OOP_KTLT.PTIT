@@ -1,0 +1,15 @@
+Chuc Vu: NHAN VIEN
+Luong : 150000/Ngay
+-------------------------------
+Chuc Vu: QUAN LY
+Luong : 300000/Ngay
+-------------------------------
+Chuc Vu: THU NGAN
+Luong : 200000/Ngay
+-------------------------------
+Chuc Vu: BAO VE
+Luong : 150000/Ngay
+-------------------------------
+Chuc Vu: PHA CHE
+Luong : 250000/Ngay
+-------------------------------

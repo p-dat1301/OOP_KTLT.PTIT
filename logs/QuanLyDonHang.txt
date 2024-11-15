@@ -1,0 +1,240 @@
+Ma Don Hang: D01
+Ten Khach Hang: A
+So Dien Thoai: 01
+Ngay Dat Hang: 10/11/2024
+San Pham: BAC XIU
+Tong Tien: 45000
+Ma Uu Dai: A
+---------------------------------------------
+Ma Don Hang: D02
+Ten Khach Hang: B
+So Dien Thoai: 02
+Ngay Dat Hang: 10/11/2024
+San Pham: TRA XANH
+Tong Tien: 40000
+Ma Uu Dai: 0
+---------------------------------------------
+Ma Don Hang: D03
+Ten Khach Hang: A
+So Dien Thoai: 01
+Ngay Dat Hang: 10/11/2024
+San Pham: BAC XIU
+Tong Tien: 45000
+Ma Uu Dai: A
+---------------------------------------------
+Ma Don Hang: D04
+Ten Khach Hang: A
+So Dien Thoai: 01
+Ngay Dat Hang: 10/11/2024
+San Pham: BAC XIU
+Tong Tien: 45000
+Ma Uu Dai: A
+---------------------------------------------
+Ma Don Hang: D05
+Ten Khach Hang: B
+So Dien Thoai: 02
+Ngay Dat Hang: 10/11/2024
+San Pham: CAFE DEN
+Tong Tien: 50000
+Ma Uu Dai: 0
+---------------------------------------------
+Ma Don Hang: D051
+Ten Khach Hang: B
+So Dien Thoai: 02
+Ngay Dat Hang: 12/11/2024
+San Pham: CAFE DEN
+Tong Tien: 50000
+Ma Uu Dai: 0
+---------------------------------------------
+Ma Don Hang: D06
+Ten Khach Hang: ABC
+So Dien Thoai: 0000
+Ngay Dat Hang: 12/11/2024
+San Pham: CAFE DEN
+Tong Tien: 50000
+Ma Uu Dai: 0
+---------------------------------------------
+Ma Don Hang: D07
+Ten Khach Hang: A
+So Dien Thoai: 01
+Ngay Dat Hang: 10/11/2024
+San Pham: CAFE DEN
+Tong Tien: 45000
+Ma Uu Dai: A
+---------------------------------------------
+Ma Don Hang: D08
+Ten Khach Hang: ABC
+So Dien Thoai: 000
+Ngay Dat Hang: 12/12/2024
+San Pham: CAFE DEN
+Tong Tien: 50000
+Ma Uu Dai: 0
+---------------------------------------------
+Ma Don Hang: D09
+Ten Khach Hang: A
+So Dien Thoai: 01
+Ngay Dat Hang: 13/11/2024
+San Pham: CAFE SUA
+Tong Tien: 50000
+Ma Uu Dai: 0
+---------------------------------------------
+Ma Don Hang: D10
+Ten Khach Hang: B
+So Dien Thoai: 01
+Ngay Dat Hang: 13/11/2024
+San Pham: CAFE SUA
+Tong Tien: 50000
+Ma Uu Dai: 0
+---------------------------------------------
+Ma Don Hang: D11
+Ten Khach Hang: A
+So Dien Thoai: 01
+Ngay Dat Hang: 13/11/2024
+San Pham: NUOC LOC
+Tong Tien: 10000
+Ma Uu Dai: 0
+---------------------------------------------
+Ma Don Hang: D12
+Ten Khach Hang: A
+So Dien Thoai: 01
+Ngay Dat Hang: 13/11/2024
+San Pham: CAFE SUA
+Tong Tien: 50000
+Ma Uu Dai: 0
+---------------------------------------------
+Ma Don Hang: D13
+Ten Khach Hang: A
+So Dien Thoai: 01
+Ngay Dat Hang: 13/11/2024
+San Pham: CAFE SUA
+Tong Tien: 50000
+Ma Uu Dai: 0
+---------------------------------------------
+Ma Don Hang: D14
+Ten Khach Hang: A
+So Dien Thoai: 01
+Ngay Dat Hang: 13/11/2024
+San Pham: NUOC LOC
+Tong Tien: 10000
+Ma Uu Dai: 0
+---------------------------------------------
+Ma Don Hang: D15
+Ten Khach Hang: A
+So Dien Thoai: 01
+Ngay Dat Hang: 13/11/2024
+San Pham: NUOC LOC
+Tong Tien: 10000
+Ma Uu Dai: 0
+---------------------------------------------
+Ma Don Hang: D19
+Ten Khach Hang: A
+So Dien Thoai: 01
+Ngay Dat Hang: 10/11/2024
+San Pham: NUOC LOC
+Tong Tien: 45000
+Ma Uu Dai: A
+---------------------------------------------
+Ma Don Hang: D16
+Ten Khach Hang: A
+So Dien Thoai: 01
+Ngay Dat Hang: 13/11/2024
+San Pham: NUOC LOC
+Tong Tien: 9000
+Ma Uu Dai: A
+---------------------------------------------
+Ma Don Hang: D22
+Ten Khach Hang: TAO LA FAN MU
+So Dien Thoai: 1999
+Ngay Dat Hang: 13/11/2024
+San Pham: CAFE DEN
+Tong Tien: 50000
+Ma Uu Dai: 0
+---------------------------------------------
+Ma Don Hang: D20
+Ten Khach Hang: A
+So Dien Thoai: 01
+Ngay Dat Hang: 13/11/2024
+San Pham: CAFE DEN
+Tong Tien: 50000
+Ma Uu Dai: 0
+---------------------------------------------
+Ma Don Hang: D23
+Ten Khach Hang: A
+So Dien Thoai: 01
+Ngay Dat Hang: 13/11/2024
+San Pham: CAFE DEN
+Tong Tien: 45000
+Ma Uu Dai: A
+---------------------------------------------
+Ma Don Hang: D24
+Ten Khach Hang: TAO LA FAN MU
+So Dien Thoai: 1999
+Ngay Dat Hang: 13/11/2024
+San Pham: CAFE DEN
+Tong Tien: 45000
+Ma Uu Dai: A
+---------------------------------------------
+Ma Don Hang: D25
+Ten Khach Hang: TAO LA FAN MU
+So Dien Thoai: 1999
+Ngay Dat Hang: 13/11/2024
+San Pham: NUOC LOC
+Tong Tien: 9000
+Ma Uu Dai: A
+---------------------------------------------
+Ma Don Hang: D26
+Ten Khach Hang: TAO LA FAN MU
+So Dien Thoai: 1999
+Ngay Dat Hang: 13/11/2024
+San Pham: NUOC LOC
+Tong Tien: 50000
+Ma Uu Dai: 0
+---------------------------------------------
+Ma Don Hang: D27
+Ten Khach Hang: TAO LA FAN MU
+So Dien Thoai: 1999
+Ngay Dat Hang: 13/11/2024
+San Pham: NUOC LOC
+Tong Tien: 10000
+Ma Uu Dai: 0
+---------------------------------------------
+Ma Don Hang: D28
+Ten Khach Hang: TAO LA FAN MU
+So Dien Thoai: 1999
+Ngay Dat Hang: 13/11/2024
+San Pham: NUOC LOC
+Tong Tien: 9900
+Ma Uu Dai: C
+---------------------------------------------
+Ma Don Hang: D29
+Ten Khach Hang: TAO LA FAN MU
+So Dien Thoai: 1999
+Ngay Dat Hang: 13/11/2024
+San Pham: NUOC LOC
+Tong Tien: 10000
+Ma Uu Dai: 0
+---------------------------------------------
+Ma Don Hang: D36
+Ten Khach Hang: A
+So Dien Thoai: 01
+Ngay Dat Hang: 13/11/2024
+San Pham: CAFE DEN
+Tong Tien: 45000
+Ma Uu Dai: A
+---------------------------------------------
+Ma Don Hang: D41
+Ten Khach Hang: A
+So Dien Thoai: 01
+Ngay Dat Hang: 08/11/2027
+San Pham: CAFE SUA
+Tong Tien: 50000
+Ma Uu Dai: 0
+---------------------------------------------
+Ma Don Hang: D42
+Ten Khach Hang: A
+So Dien Thoai: 01
+Ngay Dat Hang: 13/11/2024
+San Pham: CAFE SUA
+Tong Tien: 50000
+Ma Uu Dai: 0
+---------------------------------------------

@@ -1,0 +1,18 @@
+Ma uu dai: A
+Ngay bat dau: 09/11/2024
+Ngay het han: 10/12/2024
+Giam gia: 10%
+Dieu kien ap dung: 10 da mua
+------------------------------
+Ma uu dai: B
+Ngay bat dau: 07/07/2024
+Ngay het han: 08/08/2024
+Giam gia: 1%
+Dieu kien ap dung: 1 da mua 
+------------------------------
+Ma uu dai: C
+Ngay bat dau: 25/07/2024
+Ngay het han: 01/01/2026
+Giam gia: 1%
+Dieu kien ap dung: 1 da mua 
+------------------------------

@@ -1,0 +1,19 @@
+ID: A00, So ghe: 0, VIP: Khong, Trang thai: Trong
+ID: A01, So ghe: 4, VIP: Khong, Trang thai: Trong
+ID: A02, So ghe: 4, VIP: Khong, Trang thai: Trong
+ID: A03, So ghe: 4, VIP: Khong, Trang thai: Trong
+ID: A04, So ghe: 4, VIP: Khong, Trang thai: Trong
+ID: A05, So ghe: 4, VIP: Khong, Trang thai: Trong
+ID: A06, So ghe: 4, VIP: Khong, Trang thai: Trong
+ID: A07, So ghe: 4, VIP: Khong, Trang thai: Trong
+ID: A08, So ghe: 4, VIP: Khong, Trang thai: Trong
+ID: A09, So ghe: 4, VIP: Khong, Trang thai: Trong
+ID: B00, So ghe: 0, VIP: Khong, Trang thai: Co khach
+ID: B01, So ghe: 2, VIP: Co, Trang thai: Trong
+ID: B02, So ghe: 2, VIP: Co, Trang thai: Trong
+ID: B03, So ghe: 2, VIP: Co, Trang thai: Trong
+ID: B04, So ghe: 2, VIP: Co, Trang thai: Trong
+ID: B05, So ghe: 2, VIP: Co, Trang thai: Trong
+ID: B06, So ghe: 2, VIP: Co, Trang thai: Trong
+ID: B07, So ghe: 2, VIP: Co, Trang thai: Trong
+ID: B08, So ghe: 2, VIP: Co, Trang thai: Trong

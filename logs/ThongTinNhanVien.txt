@@ -1,0 +1,42 @@
+Ma Nhan Vien: A
+Ten Nhan Vien: A
+So Dien Thoai: 01
+Chuc Vu: NHAN VIEN
+Luong: 150000 / Ngay
+---------------------------------------------
+Ma Nhan Vien: B
+Ten Nhan Vien: B
+So Dien Thoai: 02
+Chuc Vu: BAO VE
+Luong: 150000 / Ngay
+---------------------------------------------
+Ma Nhan Vien: C1
+Ten Nhan Vien: C1
+So Dien Thoai: 01
+Chuc Vu: NHAN VIEN
+Luong: 150000 / Ngay
+---------------------------------------------
+Ma Nhan Vien: D1
+Ten Nhan Vien: 01
+So Dien Thoai: 04
+Chuc Vu: QUAN LY
+Luong: 300000 / Ngay
+---------------------------------------------
+Ma Nhan Vien: E
+Ten Nhan Vien: E
+So Dien Thoai: 03
+Chuc Vu: NHAN VIEN
+Luong: 150000 / Ngay
+---------------------------------------------
+Ma Nhan Vien: NV01
+Ten Nhan Vien: ABC
+So Dien Thoai: 01
+Chuc Vu: QUAN LY
+Luong: 300000 / Ngay
+---------------------------------------------
+Ma Nhan Vien: NV02
+Ten Nhan Vien: A
+So Dien Thoai: 03
+Chuc Vu: QUAN LY
+Luong: 300000 / Ngay
+---------------------------------------------
